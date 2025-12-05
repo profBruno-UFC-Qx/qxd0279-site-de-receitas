@@ -4,7 +4,7 @@
 Praticar a navegação de páginas usando o Vue Router, incluindo rotas estáticas, dinâmicas e páginas de erro.
 
 ## 📝 Descrição
-Implemente um **site de receitas** onde os dados são forneceidos por um JSON Server.  
+Implemente um **site de receitas** onde os dados são fornecidos por um JSON Server.  
 O site deve conter pelo menos as seguintes páginas:
 
 - `/` → Lista de todas as receitas com paginação. Dez no máximo por página.

@@ -48,7 +48,7 @@
     {
       "id": 3,
       "titulo": "Strogonoff de Frango Cremoso",
-      "foto": "/images/strogonoff.webp",
+      "foto": "/images/strogonoff.jpg",
       "introducao": "Um clássico da culinária brasileira, este strogonoff é a definição de comfort food. Simples de fazer, rápido e com um molho incrivelmente cremoso que combina com arroz branco e batata palha.",
       "ingredientes": [
         "500g de filé de frango cortado em cubos",
@@ -461,7 +461,7 @@
     {
       "id": 23,
       "titulo": "Pudim de Leite Condensado",
-      "foto": "/images/pudim,jpg",
+      "foto": "/images/pudim.jpg",
       "introducao": "Uma sobremesa brasileira clássica, com uma textura suave e cremosa e uma calda de caramelo deliciosa. É a sobremesa perfeita para qualquer ocasião especial.",
       "ingredientes": [
         "1 lata de leite condensado",
